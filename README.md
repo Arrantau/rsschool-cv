@@ -1,1 +1,1 @@
-https://github.com/Arrantau/rsschool-cv/blob/gh-pages/cv.md
+https://arrantau.github.io/rsschool-cv/.
